@@ -1,0 +1,92 @@
+﻿Rank,City,State,Country,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+1,New York,NY,United States,100,100,100,100,100,100
+2,Honolulu,HI,United States,95.89,64.15,80.6,102.02,80.95,75.12
+3,San Francisco,CA,United States,92.88,109.44,100.86,93.61,87.93,145.53
+4,Anchorage,AK,United States,91.88,37.45,65.65,94.24,74.96,113.26
+5,Alexandria,VA,United States,90.76,55.88,73.95,93.38,77.16,144.64
+6,Oakland,CA,United States,90.39,82.42,86.55,96.98,72.12,94.99
+7,Seattle,WA,United States,89.39,67.66,78.92,85.22,85.56,134.4
+8,Queens,NY,United States,89.33,76.82,83.3,81.15,85.71,115.38
+9,Boston,MA,United States,88.78,76.35,82.79,90.73,85.82,105.51
+10,Washington,DC,United States,85.46,75.56,80.69,82.49,80.33,117.32
+11,Fremont,CA,United States,85.21,71.35,78.53,85.46,88.15,126.87
+12,Jersey City,NJ,United States,83.39,62.53,73.34,84.68,68.87,120.39
+13,Los Angeles,CA,United States,82.55,72.6,77.76,80.03,87.72,100.01
+14,Fort Lauderdale,FL,United States,82.07,54.78,68.92,93.29,72.52,98.8
+15,Chicago,IL,United States,82.04,56.66,69.81,79.64,75.89,109.18
+16,Saint Paul,MN,United States,81.39,39.99,61.44,81.44,72.95,99.28
+17,Charleston,SC,United States,81.07,48.38,65.32,84.66,73.95,101.69
+18,Minneapolis,MN,United States,80.89,42.97,62.62,78.13,75.22,118.79
+19,Milwaukee,WI,United States,80.63,34.86,58.57,86.83,65.89,85.19
+20,San Diego,CA,United States,80.5,67.24,74.11,80.82,77.59,117.52
+21,Pittsburgh,PA,United States,79.35,35.62,58.28,82.92,62.36,108.14
+22,Irvine,CA,United States,79.2,66.93,73.29,73.04,77.96,138.31
+23,Philadelphia,PA,United States,79.02,47.22,63.7,80.41,65.36,91.04
+24,Portland,OR,United States,78.58,47.73,63.72,77.94,69.2,107.35
+25,San Jose,CA,United States,78.33,82.01,80.11,74.32,77.53,143.91
+26,Tampa,FL,United States,78.25,41.34,60.46,83.88,67.78,108.25
+27,Miami,FL,United States,78.21,57.32,68.14,74.79,72.95,81.43
+28,Asheville,NC,United States,77.7,40.78,59.91,81.75,71.94,100.84
+29,Sacramento,CA,United States,77.52,46.25,62.45,76.25,67.71,107.68
+30,Cleveland,OH,United States,76.93,38.52,58.42,80.38,67.32,91.44
+31,Atlanta,GA,United States,76.87,47.91,62.92,78.16,63.45,144.46
+32,New Orleans,LA,United States,76.49,39.99,58.91,75.42,73.15,90.46
+33,Charlotte,NC,United States,76.17,44,60.67,72.08,70.72,122.58
+34,Ann Arbor,MI,United States,75.06,48.72,62.37,76.61,65.43,115.44
+35,Birmingham,AL,United States,75.04,29.52,53.11,77.34,63.02,88.31
+36,Spokane,WA,United States,74.56,29.42,52.81,72.91,72.38,93.55
+37,Denver,CO,United States,74.49,52.39,63.84,67.96,73.18,119.82
+38,Everett,WA,United States,74.13,44.21,59.71,69.57,83.04,104.52
+39,Rochester,NY,United States,74.09,30.12,52.91,74.07,69.13,101.13
+40,Bellingham,WA,United States,74.07,38.32,56.84,74.88,62.66,91.07
+41,Baltimore,MD,United States,73.48,43.29,58.94,69.85,71.94,110.02
+42,Columbus,OH,United States,73.41,32.1,53.5,73.62,65.8,128.39
+43,Nashville,TN,United States,73.16,46.77,60.44,67.54,76.2,109.8
+44,Buffalo,NY,United States,73.11,27.88,51.32,72.09,63.43,100.96
+45,Colorado Springs,CO,United States,72.82,35.51,54.84,76.46,59.34,110.06
+46,Albany,NY,United States,72.36,33.23,53.5,67.05,77.34,114.74
+47,Riverside,CA,United States,71.57,44.07,58.32,68.15,68.89,98.33
+48,Raleigh,NC,United States,71.1,37.02,54.68,74.38,69.21,130.95
+49,Olympia,WA,United States,70.85,39.48,55.74,69.42,65.24,118.2
+50,Saint Petersburg,FL,United States,70.74,37.55,54.74,73.48,60.19,107.04
+51,Jacksonville,FL,United States,70.18,33.69,52.6,74.76,67.59,117.54
+52,Vancouver,WA,United States,69.88,39.6,55.29,68.38,66.35,121.09
+53,Kansas City,MO,United States,69.41,29.8,50.32,64.22,68.93,123.16
+54,Orlando,FL,United States,69.14,39.68,54.95,66.89,70.77,107.68
+55,Las Vegas,NV,United States,69.09,37.78,54,60.03,73.66,114.56
+56,Omaha,NE,United States,68.96,30.9,50.62,66.76,59.85,112.31
+57,Saint Louis,MO,United States,68.46,31.93,50.86,68.71,59.24,126.52
+58,Madison,WI,United States,68.39,37.39,53.46,67.07,63.67,119.7
+59,Reno,NV,United States,68.02,40.57,54.8,68.32,66.11,122.58
+60,Fresno,CA,United States,67.91,31.77,50.49,63.44,62.54,109
+61,Detroit,MI,United States,67.82,39.86,54.35,67.09,58.79,80.59
+62,Richmond,VA,United States,67.79,35.19,52.09,65.06,70,112.69
+63,Eugene,OR,United States,67.41,33.2,50.92,73.88,55.55,98.19
+64,Houston,TX,United States,67.19,40.94,54.55,63.99,66.42,140.48
+65,Lincoln,NE,United States,67.18,26.54,47.59,67.19,65.68,111.12
+66,Louisville,KY,United States,67.09,32.77,50.56,63.27,74.54,108.27
+67,Knoxville,TN,United States,67.05,32.82,50.56,72.25,58.93,102.37
+68,Tucson,AZ,United States,66.94,26.22,47.32,63.31,59.49,100.82
+69,Phoenix,AZ,United States,66.91,37.14,52.57,62.44,64.16,118.57
+70,Des Moines,IA,United States,66.76,28.94,48.54,67.81,57.36,118.67
+71,Fort Worth,TX,United States,66.7,33.19,50.55,59.71,63.82,124.66
+72,Tulsa,OK,United States,66.18,27.99,47.78,69.15,55.16,114.55
+73,Akron,OH,United States,66.17,20.65,44.24,71.06,48.96,104.72
+74,Baton Rouge,LA,United States,65.98,31.98,49.6,63.42,66.24,91.43
+75,Toledo,OH,United States,65.95,20.94,44.26,64.78,61.28,103.07
+76,Indianapolis,IN,United States,65.92,30.06,48.64,62.94,60.4,123.88
+77,Albuquerque,NM,United States,65.78,27.12,47.15,66.45,64.42,108.75
+78,Dallas,TX,United States,65.69,47.21,56.79,58.96,66.31,162.64
+79,Huntsville,AL,United States,65.47,29.63,48.2,67.06,58.94,122.34
+80,Oklahoma City,OK,United States,64.93,29.08,47.65,68.78,52.72,120.01
+81,Salt Lake City,UT,United States,64.86,37.25,51.56,61.28,62.57,129.51
+82,Little Rock,AR,United States,64.64,26.36,46.19,59.97,68.76,124.98
+83,Austin,TX,United States,63.97,49.52,57.01,63.06,63.41,131.13
+84,San Antonio,TX,United States,63.79,36.6,50.69,57.83,68.67,110.28
+85,Chattanooga,TN,United States,63.59,35.57,50.09,64.28,53.67,98.4
+86,Cincinnati,OH,United States,63.41,34.48,49.47,61.52,57.66,125.89
+87,Memphis,TN,United States,63.41,28.49,46.58,57.88,62.41,104.41
+88,Boise,ID,United States,62.89,36.55,50.2,56.81,65.24,102.83
+89,Wichita,KS,United States,60.79,22.96,42.56,55.77,57.12,112.47
+90,Lexington,KY,United States,59.68,26.72,43.8,60.78,52.19,127.8
+91,El Paso,TX,United States,55.68,22.66,39.77,57.21,41.3,124.95
